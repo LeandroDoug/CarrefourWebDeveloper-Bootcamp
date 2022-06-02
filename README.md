@@ -5,6 +5,7 @@
 
 * Desafio foi relizado utilizando HTML5, CSS3, JavaScript e jQuery.
 * O carrosel é funcional e foi feito com bibliotecas jQuery.
+* Possui características de responsividade.
 * As imagens que estão sendo utilizadas são para fins educacionais e não estão sendo comercializadas.
 
 <div align="center">
